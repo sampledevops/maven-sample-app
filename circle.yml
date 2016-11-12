@@ -9,7 +9,4 @@ machine:
 test:
   post:
     - docker pull tomcat
-      
-deployment:
-  post:
     - docker run -d -p 8080:8080 --name tomcat tomcat
