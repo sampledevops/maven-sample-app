@@ -1,4 +1,4 @@
-# Maven sample app new
+# Maven sample app newa
 
 ## Installation
 
